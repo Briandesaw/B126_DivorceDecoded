@@ -1,4 +1,4 @@
-Questions are ranked on a scale of 1-5 with 1 being the lowest and 5 being the highest. The last category states if the couple has divorced.
+Questions are ranked on a scale of 0-4 with 0 being the lowest and 4 being the highest. The last category states if the couple has divorced.
 
 1.	If one of us apologizes when our discussion deteriorates, the discussion ends.
 2.	I know we can ignore our differences, even if things get hard sometimes.

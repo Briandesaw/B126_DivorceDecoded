@@ -9,7 +9,7 @@ You can view our source code in the following order:
 2. [Data Summarization](#data_summarization)
 3. [Exploratory Data Analysis](#eda)
 4. [Data Preparation (New Stuff)](#dataprep) 
-5. [Model Evaluation (New Stuff)](#modelselect)
+5. [Model Evaluation](#modelselect)
 
 ## Problem Definition
 

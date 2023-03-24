@@ -25,20 +25,20 @@ You can view our source code in the following order:
 
 ## ML Models Used
 
-1. Bagging Classifier
-2. Random Forest Classifier
-3. Extra Trees Classifier
-4. Ada Boost Classifier
-5. Gradient Boosting Classifier
-6. Gaussian Process Classifier
-7. Logistic Regression CV
-8. Gaussian Naive Bayes
-9. K Neighbors Classifier
-10. SVC
-11. Linear SVC
+1. Bagging Classifier (new)
+2. Random Forest Classifier 
+3. Extra Trees Classifier (new)
+4. Ada Boost Classifier (new)
+5. Gradient Boosting Classifier (new)
+6. Gaussian Process Classifier (new)
+7. Logistic Regression CV (new)
+8. Gaussian Naive Bayes (new)
+9. K Neighbors Classifier (new)
+10. SVC (new)
+11. Linear SVC (new)
 12. Decision Tree Classifier
-13. Linear Discriminant Analysis
-14. XGB Classifier
+13. Linear Discriminant Analysis (new)
+14. XGB Classifier (new)
 
 
 ## Contributors
